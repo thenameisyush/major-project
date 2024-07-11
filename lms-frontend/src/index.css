@@ -1,0 +1,13 @@
+/* @import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utlities"; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+ margin: auto;
+ max-width: 1440px;
+ postion: relative;
+}
